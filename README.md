@@ -1,7 +1,7 @@
 # Runway Optimization Simulator
 
 A Java Swing–based aviation simulation that recommends the optimal landing runway 
-for 5 Indian airports based on wind direction and headwind alignment logic.
+for 5 Indian airports based on wind direction and rule-based wind alignment logic.
 
 ## Airports Covered
 Delhi (IGI) · Mumbai (CSIA) · Chennai (MAA) · Vizag (VTZ) · Port Blair (IXZ)
